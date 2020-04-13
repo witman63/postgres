@@ -1,0 +1,7 @@
+[Default_Organization_Postgres_PGDG-96]
+metadata_expire = 1
+baseurl = http://katello.rinis.cloud/pulp/repos/RINIS/Library/cp-postgress/custom/Postgress/PGDG-9_6
+name = CentOS7-Updates
+gpgkey = https://katello.rinis.cloud/katello/api/repositories/2/gpg_key_content
+enabled = 1
+gpgcheck = 0
